@@ -1,0 +1,21 @@
+BrandId	BName
+1	Alani
+2	C4
+3	Celsius
+4	Different Energy
+5	EBoost Super Fuel
+6	LifeAid
+7	G-Fuel
+8	Ghost
+9	Impact
+10	Monster
+11	Mountain Dew
+12	NOS
+13	Pepsi
+14	Red Bull
+15	Rockstar
+16	Runa
+17	TeaRiot
+18	Wave
+19	Yerbae
+20	Zoa
